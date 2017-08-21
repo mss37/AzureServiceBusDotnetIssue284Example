@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AzureServiceBusDotnetIssue284Example
 {
-    public class Class1
+    public class Issue248
     {
         public async static Task Reproduce()
         {
